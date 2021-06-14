@@ -1,0 +1,38 @@
+.page-header{
+    font-size: 30px;
+    font-weight: bold;
+}
+.checkout-holder{
+    margin: 10px 0;
+    // box-shadow: 0px 1px 0px 2px lightgrey;
+    box-shadow: 0px 1px 3px 0px #777;
+    background: #f7f7f7;
+}
+.checkout-btn-holder{
+    display: flex;
+    justify-content: space-between;
+}
+.event-card{
+    color: grey;
+    display: flex;
+    padding: 10px 20px;
+    align-items: center;
+    background: white;
+    margin-bottom: 3px;
+}
+.event-date {
+    color: grey;
+    text-align: center;
+    margin-right: 20px;
+}
+.checkout-back{
+    cursor: pointer;
+}
+
+.underline{
+    width: 5%;
+    height: 3px;
+    margin: 0;
+    margin-bottom: 25px;
+    color: black;
+}

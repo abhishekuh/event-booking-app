@@ -1,3 +1,13 @@
+<!-- Author: Abhishek U H -->
+
+1. Please run json server in src/data folder. 
+   
+   json-server --watch db.json
+
+2. in src folder, hit npm start to start the application
+
+
+
 # EventBooking
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.

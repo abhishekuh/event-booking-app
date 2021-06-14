@@ -1,0 +1,23 @@
+<div class="page-header">
+    <span>Checkout</span>
+    <hr class="underline">
+</div>
+<div class="checkout-holder">
+    <div class="event-card" *ngFor="let event of eventData">
+        <div class="event-date">
+            <div>{{event.date | date:'MMM'}}</div>
+            <div class="event-day">{{event.date | date:'d'}}</div>
+            <div>{{event.date | date:'yyyy'}}</div>
+        </div>
+        <div> 
+            <div>{{event.date}}</div>
+            <div class="event-day">{{event.location}}</div>
+            <div>{{event.name}}</div>
+        </div>
+    
+    </div>
+</div>
+<div class="checkout-btn-holder">
+    <span class="checkout-back" routerLink='/eventList'>Go Back</span>
+    <button type="button" class="btn btn-primary" (click)="completeCheckout()">Buy Now</button>
+</div>

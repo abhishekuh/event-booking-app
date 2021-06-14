@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "location": "Bord Gais Energy Theatre - Dublin",
+      "date": "2021-06-21 19:30",
+      "name": "School of Rock - The musical"
+    },
+    {
+      "id": "2",
+      "location": "The Aviva - Dublin",
+      "date": "2021-07-15 20:30",
+      "name": "Euro 2020"
+    },
+    {
+      "id": "3",
+      "location": "3 Arena - Dublin",
+      "date": "2021-07-10 19:30",
+      "name": "Game of Rock"
+    },
+    {
+      "id": "4",
+      "location": "Croke Park - Dublin",
+      "date": "2021-07-30 20:30",
+      "name": "Football Match"
+    },
+    {
+      "id": "5",
+      "location": "Great Theatre - Dublin",
+      "date": "2021-09-24 20:30",
+      "name": "Game of Rock"
+    },
+    {
+      "id": "6",
+      "location": "Bord Gais Energy Theatre - Dublin",
+      "date": "2021-08-20 20:30",
+      "name": "Game of Rock"
+    },
+    {
+      "id": "7",
+      "location": "3 Arena - Dublin",
+      "date": "2021-08-10 20:30",
+      "name": "Pop Concert"
+    },
+    {
+      "id": "8",
+      "location": "Croke Park - Dublin",
+      "date": "2021-09-05 14:00",
+      "name": "Mamamiya"
+    }
+  ]
+}
